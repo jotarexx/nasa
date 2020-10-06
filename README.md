@@ -2,4 +2,4 @@
 
 Fiction Web about NASA 2090
 
-Linl: jotarexx.github.io/nasa/
+Link: jotarexx.github.io/nasa/
